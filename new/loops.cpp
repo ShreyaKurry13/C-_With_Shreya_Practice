@@ -43,20 +43,7 @@ int main(){
       cout<<i<<",";
    }
       */
-   
-   //FACTORIAL
 
-   int num,i;
-   int product = 1;
-   cout<<"Enter a number: ";
-   cin>>num;
-
-   for (i=1; i<=num; i++)
-   {
-     product*=i;
-     cout<<"Factorial is: "<<product;
-   }
-   
    
    return 0;
 }
